@@ -1,0 +1,8 @@
+{
+    "beautify.ignore": "",
+    "beautify.config": "",
+    "emmet.preferences": {},
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "editor.defaultFormatter": "HookyQR.beautify"
+}
